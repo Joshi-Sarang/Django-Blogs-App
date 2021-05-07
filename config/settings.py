@@ -78,11 +78,11 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-
+"""
 # new
 db_from_env = dj_database_url.config()
 DATABASES['default'].update(db_from_env)
-
+"""
 # Password validation
 # https://docs.djangoproject.com/en/dev/ref/settings/#auth-password-validators
 
