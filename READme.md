@@ -30,7 +30,7 @@ Sita - sita12345
 ![image](https://user-images.githubusercontent.com/69730480/117538074-1a352800-b022-11eb-86b7-fa025a36e331.png)
 ![image](https://user-images.githubusercontent.com/69730480/117538139-6c764900-b022-11eb-987a-140b87e106f6.png)
 
-## Admin Artical
+## Admin Article
 ![image](https://user-images.githubusercontent.com/69730480/117538153-7b5cfb80-b022-11eb-8491-cd3f8627c720.png)
 ![image](https://user-images.githubusercontent.com/69730480/117538183-a0516e80-b022-11eb-9809-3e40270d217a.png)
 
